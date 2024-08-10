@@ -1,0 +1,61 @@
+body{
+    background-color: #324d25;
+    color: #E6DBD0;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, hr{
+    font-family: "Playfair Display";
+    color: #E6DBD0;
+    margin: 50px;
+}
+
+a {
+    font-family: "Raleway-Light";
+    margin-top: 0; /* Ensure no top margin */
+    margin-bottom: 0;
+} 
+
+.custom-link{
+    color: #E6DBD0;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    
+}
+
+.custom-link:hover {
+    color: #e6dbd0a5;
+    text-decoration: none;
+}
+
+/* Social Icons Styling */
+.social-icons {
+    margin-top: 5px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    font-size: 1.3em;
+    color:#E6DBD0;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #0077b5; /* LinkedIn Color */
+}
+
+/* Individual Icon Colors */
+.social-icons a:nth-child(2):hover {
+    color: #333; /* GitHub Color */
+}
+
+.social-icons a:nth-child(3):hover {
+    color: #1DB954; /* Spotify Color */
+}
+
+.visit-line {
+    margin-top: 40px; /* Adjust the top margin to increase space above the text */
+    margin-bottom: 0;
+    font-size: 0.9em; /* Reduce the font size slightly */
+}

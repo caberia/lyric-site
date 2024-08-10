@@ -1,0 +1,33 @@
+body{
+    background-color: #324d25;
+    color: #E6DBD0;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, hr{
+    font-family: "Playfair Display";
+    color: #E6DBD0;
+}
+
+hr {
+    margin-top: 1em;
+}
+
+pre{
+    font-family: "Raleway Light";
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+.musicvideo {
+    width: 400px;
+}
+
+.image {
+    width: 100px; 
+}
+
+.contribution{
+    font-family: "Montserrat";
+    font-size: 0.85em;
+}
