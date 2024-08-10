@@ -55,6 +55,7 @@ a {
 }
 
 .visit-line {
+    font-family: "Raleway-Light";
     margin-top: 40px; /* Adjust the top margin to increase space above the text */
     margin-bottom: 0;
     font-size: 0.9em; /* Reduce the font size slightly */
