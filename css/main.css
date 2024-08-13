@@ -31,11 +31,11 @@ a {
 
 /* Social Icons Styling */
 .social-icons {
-    margin-top: 5px;
+    margin: 0.5em;
 }
 
 .social-icons a {
-    margin: 0 10px;
+    margin: 0.10px;
     font-size: 1.3em;
     color:#E6DBD0;
     text-decoration: none;
@@ -65,7 +65,7 @@ a {
 .mentions{
     padding: 1em;
     margin: 0;
-    margin-top: 3em;
+    margin-top: 0;
     background-color: #1E3F53;
     font-family: "Raleway-Light";
     font-size: 0.6em;
